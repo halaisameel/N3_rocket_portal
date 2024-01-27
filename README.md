@@ -64,7 +64,7 @@
 ## Launch preparation documents
 | Component         | Link  | 
 |---|---|
-| Launch procedure | |
+| Launch procedure | [N3-Rocket Launch Checklist](https://docs.google.com/spreadsheets/d/1cXh5uT1mLSD9K2cnenVysU5yLM8qpEX5P4a7Yca3SIU/edit#gid=530800722) |
 | Dry run | |
 | Participants list || 
 
